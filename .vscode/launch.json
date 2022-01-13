@@ -9,6 +9,16 @@
             "mainClass": "com.rkz.bookstoreapi.BookstoreApiApplication",
             "projectName": "bookstore-api",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BookstoreApiApplication<bookstore-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.rkz.BookstoreApiApplication",
+            "projectName": "bookstore-api",
+            "args": ""
         }
     ]
 }
